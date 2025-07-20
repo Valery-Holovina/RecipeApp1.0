@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "bircher-muesli-8039257-4000x4000-b007aad2b4bc4b9895924f90f33faf41.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

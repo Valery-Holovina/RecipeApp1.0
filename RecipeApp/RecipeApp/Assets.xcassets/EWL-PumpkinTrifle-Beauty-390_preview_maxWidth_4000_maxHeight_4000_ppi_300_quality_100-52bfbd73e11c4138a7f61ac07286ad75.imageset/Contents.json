@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "EWL-PumpkinTrifle-Beauty-390_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-52bfbd73e11c4138a7f61ac07286ad75.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
